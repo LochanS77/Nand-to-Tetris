@@ -1,2 +1,2 @@
-#hello#
-i'll have plans to ocmplette nand to tetris before doing discrete math and dsa 
+#hello
+I have plans to complete Nand-To-Tetris before doing Discrete Math and DSA 
